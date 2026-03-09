@@ -1,7 +1,7 @@
 # Museu Virtual VR - Antigo Egito
 
 ## Aluno
-Marcio Oliveira — Web 3.0 Residência em TIC 29
+Marcio da Costa  Oliveira — Web 3.0 Residência em TIC 29
 
 ## Descrição
 Experiência de Realidade Virtual ambientada no Antigo Egito, desenvolvida com Unity 6 e Meta Quest 3. O usuário pode explorar um museu virtual com estátuas e artefatos egípcios reais escaneados de museus ao redor do mundo.
